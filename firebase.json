@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "kdu2-ssr",
+    "public": "docs/.kdupress/dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}

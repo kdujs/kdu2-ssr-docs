@@ -1,0 +1,4 @@
+/en/            /
+/en/api.html    /api/
+/en/basic.html  /guide/
+/en/*           /guide/:splat
